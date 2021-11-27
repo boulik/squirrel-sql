@@ -7,6 +7,9 @@ Not yet released, available in our GIT repository and in snapshots and future re
 Enhancements:
 
 Look and Feel plugin:
+  change Substance --> Radiance
+
+Look and Feel plugin:
   upgrade FlatLaF lib to 1.6.4
 
 Choosing color theme (see previous entry) now adjusts NULL value coloring, too.
